@@ -6,8 +6,6 @@ It uses open [The Movie Database (TMDb) API] (https://www.themoviedb.org/documen
 ![](https://github.com/lohit789/reactdemo/blob/master/docs/images/screencapture-main.png)
 ![](https://github.com/lohit789/reactdemo/blob/master/docs/images/screencapture-detail.png)
 
-## Live Demo
-[TMDb Movie App] (https://github.com/lohit789/reactdemo)
 
 ## Features
 
