@@ -1,1 +1,23 @@
-# React-Movie-Web-App
+# Movie Web App
+
+This is a Movie App built in [ReactJS](http://facebook.github.io/react/index.html).
+It uses open [The Movie Database (TMDb) API] (https://www.themoviedb.org/documentation/api) to display data.
+
+![](https://github.com/lohit789/reactdemo/blob/master/docs/images/screencapture-main.png)
+![](https://github.com/lohit789/reactdemo/blob/master/docs/images/screencapture-detail.png)
+
+## Live Demo
+[TMDb Movie App] (https://github.com/lohit789/reactdemo)
+
+## Features
+
+* List popular movies
+* Search movies by title
+* Auto-suggest movie title for search function
+* View detail movie info including poster, casts, trailers
+
+## Technical Notes
+
+* Responsive design using [React-Bootstrap](https://react-bootstrap.github.io/)
+* State management using [React-Redux](https://github.com/reactjs/react-redux)
+* Environment set-up using [Create-React-App](https://github.com/facebookincubator/create-react-app)
